@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CraftWars">
+    <output-path>$PROJECT_DIR$/out/artifacts/CraftWars</output-path>
+    <root id="archive" name="dev.jar">
+      <element id="module-output" name="dev" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libs/spigot-api-1.15.2-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

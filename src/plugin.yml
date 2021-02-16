@@ -1,0 +1,11 @@
+main: me.gaurav.craftwars.CraftWars
+name: CraftWars
+version: 1.0
+author: Gaurav
+api-version: 1.13
+
+commands:
+  Xpmenu:
+
+
+
